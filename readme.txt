@@ -1,9 +1,9 @@
 === APML ===
 Contributors: pfefferle
-Donate link: http://14101978.de
+Donate link: https://notiz.blog/donate/
 Tags: APML, Attention Data, Feed, Taxonomy, Tags, Tag, Category, Categories, DataPortability
 Requires at least: 2.5
-Tested up to: 3.4.1
+Tested up to: 4.9.9
 Stable tag: 3.1.5
 
 This plugin creates an APML Feed using the the native WordPress-Tags, -Categories, -Links and -Feeds.

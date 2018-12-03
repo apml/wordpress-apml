@@ -12,7 +12,7 @@ This plugin creates an APML Feed using the the native WordPress-Tags, -Categorie
 
 This plugin creates an APML Feed using the the native WordPress-Tags, -Categories, -Links and -Feeds.
 
-You can find a demo file here: [notizBlog.org/apml](http://notizblog.org/apml).
+You can find a demo file here: [notiz.org/apml](https://notiz.blog/apml).
 
 == Installation ==
 

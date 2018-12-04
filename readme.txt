@@ -33,11 +33,11 @@ Thats it
 * Added function to flush rewrite_rules
 
 = 3.1.2 =
-* Added Webfinger discovery (http://wordpress.org/extend/plugins/webfinger/)
+* Added Webfinger discovery (https://wordpress.org/plugins/webfinger/)
 
 = 3.1.1 =
 * lowercase concept-keys
 
 == Screenshots ==
 
-You can find a demo file here: [notizBlog.org/apml/](http://notizblog.org/apml/).
+You can find a demo file here: [notiz.Blog/apml/](https://notiz.blog/apml/).
